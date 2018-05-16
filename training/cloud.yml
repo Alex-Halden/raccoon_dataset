@@ -1,5 +1,6 @@
 trainingInput:
-  runtimeVersion: "1.0"
+  pythonVersion: "3.5"
+  runtimeVersion: "1.7"
   scaleTier: CUSTOM
   masterType: standard_gpu
   workerCount: 5
